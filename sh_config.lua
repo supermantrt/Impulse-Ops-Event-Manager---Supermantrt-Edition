@@ -3,7 +3,7 @@ local PLUGIN = PLUGIN
 AddCSLuaFile("medialib.lua")
 medialib = include("medialib.lua")
 
-medialib.YOUTUBE_API_KEY = "AIzaSyA5CGMf5dodjuUQdw52wSOJG2jZbGn1RSk"
+medialib.YOUTUBE_API_KEY = "" -- Place Here
 
 -- helper funcs
 
